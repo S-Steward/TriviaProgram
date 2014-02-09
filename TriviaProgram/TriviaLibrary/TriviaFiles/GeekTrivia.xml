@@ -1,0 +1,82 @@
+<TriviaQuestionDataSet xmlns="http://tempuri.org/TriviaQuestionDataSet.xsd">
+  <TriviaQuestion>
+    <QuestionText>Philips and Sony allegedly agreed to a 120mm, 74-minute compact disk standard to accomodate what audio track, at the request of a Sony executive?</QuestionText>
+    <AnswerTextA>Beethoven's 9th Symphony</AnswerTextA>
+    <AnswerTextB>The Beatles' White Album</AnswerTextB>
+    <AnswerTextC>Grateful Dead's Skull and Roses</AnswerTextC>
+    <AnswerTextD>This Is Spinal Tap</AnswerTextD>
+    <CorrectAnswerKey>A</CorrectAnswerKey>
+  </TriviaQuestion>
+  <TriviaQuestion>
+    <QuestionText>The precursor to the laser is the ________, which used microwaves instead of visible frequencies of light.</QuestionText>
+    <AnswerTextA>Laser++</AnswerTextA>
+    <AnswerTextB>Infrared beam</AnswerTextB>
+    <AnswerTextC>Maser</AnswerTextC>
+    <AnswerTextD>Vaser</AnswerTextD>
+    <CorrectAnswerKey>C</CorrectAnswerKey>
+  </TriviaQuestion>
+  <TriviaQuestion>
+    <QuestionText>The term "Exoplanet" refers to a planet that:</QuestionText>
+    <AnswerTextA>Has an oxygen-based atmosphere</AnswerTextA>
+    <AnswerTextB>Contains a solid outer crust</AnswerTextB>
+    <AnswerTextC>Emits pulsars</AnswerTextC>
+    <AnswerTextD>Orbits any star but our Sun</AnswerTextD>
+    <CorrectAnswerKey>D</CorrectAnswerKey>
+  </TriviaQuestion>
+  <TriviaQuestion>
+    <QuestionText>How many orbiters have humans intentionally crashed into the dark side of them moon?</QuestionText>
+    <AnswerTextA>0</AnswerTextA>
+    <AnswerTextB>1</AnswerTextB>
+    <AnswerTextC>3</AnswerTextC>
+    <AnswerTextD>7</AnswerTextD>
+    <CorrectAnswerKey>C</CorrectAnswerKey>
+  </TriviaQuestion>
+  <TriviaQuestion>
+    <QuestionText>Where is the largest impact crater in our Solar System?</QuestionText>
+    <AnswerTextA>Manson, Iowa</AnswerTextA>
+    <AnswerTextB>The Moon</AnswerTextB>
+    <AnswerTextC>Jupiter</AnswerTextC>
+    <AnswerTextD>Mexico</AnswerTextD>
+    <CorrectAnswerKey>B</CorrectAnswerKey>
+  </TriviaQuestion>
+  <TriviaQuestion>
+    <QuestionText>Colonel Joseph Kittinger is best known for what courageous scientific activity?</QuestionText>
+    <AnswerTextA>Living among gorillas</AnswerTextA>
+    <AnswerTextB>Leaping from high-altitude balloons</AnswerTextB>
+    <AnswerTextC>Tasting poisonous chemicals</AnswerTextC>
+    <AnswerTextD>Deep sea pressure testing</AnswerTextD>
+    <CorrectAnswerKey>B</CorrectAnswerKey>
+  </TriviaQuestion>
+  <TriviaQuestion>
+    <QuestionText>In Star Wars, Han Solo wins the Millenium Falcon from Lando Calrissian by playing what game?  (You didn't expect us to leave out Star Wars, did you?)</QuestionText>
+    <AnswerTextA>Sabacc</AnswerTextA>
+    <AnswerTextB>Gnip-Gnop</AnswerTextB>
+    <AnswerTextC>Fizzbin</AnswerTextC>
+    <AnswerTextD>FizzBuzz</AnswerTextD>
+    <CorrectAnswerKey>A</CorrectAnswerKey>
+  </TriviaQuestion>
+  <TriviaQuestion>
+    <QuestionText>The world's first chess computer program was called ______________.</QuestionText>
+    <AnswerTextA>ENIGMA</AnswerTextA>
+    <AnswerTextB>Turing's Toy</AnswerTextB>
+    <AnswerTextC>MANIAC</AnswerTextC>
+    <AnswerTextD>Deep Blue</AnswerTextD>
+    <CorrectAnswerKey>C</CorrectAnswerKey>
+  </TriviaQuestion>
+  <TriviaQuestion>
+    <QuestionText>What is the plural of iPod Nano?</QuestionText>
+    <AnswerTextA>iPods Nano</AnswerTextA>
+    <AnswerTextB>iPod Nanoes</AnswerTextB>
+    <AnswerTextC>Flock of Nanos</AnswerTextC>
+    <AnswerTextD>Apple will not specify</AnswerTextD>
+    <CorrectAnswerKey>D</CorrectAnswerKey>
+  </TriviaQuestion>
+  <TriviaQuestion>
+    <QuestionText>Ah, geeks of the world unite!  June 14 has been deemed International __________ Day.</QuestionText>
+    <AnswerTextA>Hacker</AnswerTextA>
+    <AnswerTextB>Weblogger</AnswerTextB>
+    <AnswerTextC>Reformat Your Drive</AnswerTextC>
+    <AnswerTextD>Mountain Dew</AnswerTextD>
+    <CorrectAnswerKey>B</CorrectAnswerKey>
+  </TriviaQuestion>
+</TriviaQuestionDataSet>

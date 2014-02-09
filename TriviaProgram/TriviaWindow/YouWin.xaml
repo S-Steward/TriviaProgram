@@ -1,0 +1,10 @@
+﻿<Window x:Class="GameplayWindow.YouWin"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="YouWin" Height="300" Width="450" WindowStyle="None">
+    <Grid Margin="0,0,0,-6">
+        <Label Content="YOU WIN" FontFamily="Andy" FontSize="50"  HorizontalAlignment="Left" Margin="136,82,0,0" VerticalAlignment="Top" />
+        <Label Content="Guess those lonely nights playing trivia with your mom paid off" HorizontalAlignment="Left" Margin="66,148,0,0" VerticalAlignment="Top" />
+        <Button Name="Close_Button" Content="Close" HorizontalAlignment="Left" Margin="188,200,0,0" VerticalAlignment="Top" Width="75" Height="37" Click="Close_Button_Click" />
+    </Grid>
+</Window>

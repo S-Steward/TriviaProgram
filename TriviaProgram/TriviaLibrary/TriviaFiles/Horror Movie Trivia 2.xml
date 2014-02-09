@@ -1,0 +1,83 @@
+<TriviaQuestionDataSet xmlns="http://tempuri.org/TriviaQuestionDataSet.xsd">
+  <TriviaQuestion>
+    <QuestionText>Who played the Gravis Mushnik character in the 1960 movie production, The Little Shop Of Horrors?</QuestionText>
+    <AnswerTextA>A) Mel Welles</AnswerTextA>
+    <AnswerTextB>B) Frank Oz</AnswerTextB>
+    <AnswerTextC>C) Roger Corman</AnswerTextC>
+    <AnswerTextD>D) Jonathan Haze</AnswerTextD>
+    <CorrectAnswerKey>A</CorrectAnswerKey>
+  </TriviaQuestion>
+  <TriviaQuestion>
+    <QuestionText>How long did it take to complete the entire filming of the 1960 movie, The Little Shop Of Horrors?</QuestionText>
+    <AnswerTextA>A) 72 hours</AnswerTextA>
+    <AnswerTextB>B) 1 month</AnswerTextB>
+    <AnswerTextC>C) 2 nights and 4 days</AnswerTextC>
+    <AnswerTextD>D) 2 weeks</AnswerTextD>
+    <CorrectAnswerKey>C</CorrectAnswerKey>
+  </TriviaQuestion>
+  <TriviaQuestion>
+    <QuestionText>
+      What was the total dollar budget for the 1960 film, The Little Shop Of Horrors?</QuestionText>
+    <AnswerTextA>A) $7,500</AnswerTextA>
+    <AnswerTextB>B) $27,500</AnswerTextB>
+    <AnswerTextC>C) $100,000</AnswerTextC>
+    <AnswerTextD>D) $250,000</AnswerTextD>
+    <CorrectAnswerKey>B</CorrectAnswerKey>
+  </TriviaQuestion>
+  <TriviaQuestion>
+    <QuestionText>In contrast, what was the total dollar budget for the 1986 musical version of Little Shop Of Horrors?</QuestionText>
+    <AnswerTextA>A) $500,000</AnswerTextA>
+    <AnswerTextB>B) $5,000,000</AnswerTextB>
+    <AnswerTextC>C) $15,000,000</AnswerTextC>
+    <AnswerTextD>D) $30,000,000</AnswerTextD>
+    <CorrectAnswerKey>D</CorrectAnswerKey>
+  </TriviaQuestion>
+  <TriviaQuestion>
+    <QuestionText>Which is the only horror movie to be nonimated for 10 Academy Awards?</QuestionText>
+    <AnswerTextA>A) Psycho</AnswerTextA>
+    <AnswerTextB>B) The Exorcist</AnswerTextB>
+    <AnswerTextC>C) Jaws</AnswerTextC>
+    <AnswerTextD>D) Aliens</AnswerTextD>
+    <CorrectAnswerKey>B</CorrectAnswerKey>
+  </TriviaQuestion>
+  <TriviaQuestion>
+    <QuestionText>Alfred Hitchcock received 6 Academy Award nominations for best director. How many times did he actually win?</QuestionText>
+    <AnswerTextA>A) 0</AnswerTextA>
+    <AnswerTextB>B) 1</AnswerTextB>
+    <AnswerTextC>C) 2</AnswerTextC>
+    <AnswerTextD>D) 5</AnswerTextD>
+    <CorrectAnswerKey>A</CorrectAnswerKey>
+  </TriviaQuestion>
+  <TriviaQuestion>
+    <QuestionText>Who was the only actor ever to play each of the following  characters: Dracula, The Wolfman, Frankenstein and The Mummy?</QuestionText>
+    <AnswerTextA>A) Bela Lugosi</AnswerTextA>
+    <AnswerTextB>B) Boris Karloff</AnswerTextB>
+    <AnswerTextC>C) Lon Chaney, Jr</AnswerTextC>
+    <AnswerTextD>D) Christopher Lee</AnswerTextD>
+    <CorrectAnswerKey>C</CorrectAnswerKey>
+  </TriviaQuestion>
+  <TriviaQuestion>
+    <QuestionText>What movie marked the first time a toilet was not only shown, but also flushed on the big screen?</QuestionText>
+    <AnswerTextA>A) The Wolf Man</AnswerTextA>
+    <AnswerTextB>B) Night of the Living Dead</AnswerTextB>
+    <AnswerTextC>C) The Little Shop of Horrors</AnswerTextC>
+    <AnswerTextD>D) Psycho</AnswerTextD>
+    <CorrectAnswerKey>D</CorrectAnswerKey>
+  </TriviaQuestion>
+  <TriviaQuestion>
+    <QuestionText>What was Boris Karloff's real name?</QuestionText>
+    <AnswerTextA>A) William Henry Pratt</AnswerTextA>
+    <AnswerTextB>B) Basis Thomas Rathbone</AnswerTextB>
+    <AnswerTextC>C) Richard Patrick Bellows</AnswerTextC>
+    <AnswerTextD>D) Charles Peter Schmidt</AnswerTextD>
+    <CorrectAnswerKey>A</CorrectAnswerKey>
+  </TriviaQuestion>
+  <TriviaQuestion>
+    <QuestionText>What is the name of the infamous mortuary in the movie, Phantasm?</QuestionText>
+    <AnswerTextA>A) Potter's Field</AnswerTextA>
+    <AnswerTextB>B) Morningside Cemetery</AnswerTextB>
+    <AnswerTextC>C) Necropolis Burial Home</AnswerTextC>
+    <AnswerTextD>D) Forest Lawn</AnswerTextD>
+    <CorrectAnswerKey>B</CorrectAnswerKey>
+  </TriviaQuestion>
+</TriviaQuestionDataSet>

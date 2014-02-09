@@ -1,0 +1,82 @@
+<TriviaQuestionDataSet xmlns="http://tempuri.org/TriviaQuestionDataSet.xsd">
+  <TriviaQuestion>
+    <QuestionText>From which movie came the line, 'Have you ever talked to a corpse? It's boring...'</QuestionText>
+    <AnswerTextA>A) American Werewolf in London</AnswerTextA>
+    <AnswerTextB>B) A Nightmare on Elm Street</AnswerTextB>
+    <AnswerTextC>C) Little Shop of Horrors</AnswerTextC>
+    <AnswerTextD>D) I Know What You Did Last Summer</AnswerTextD>
+    <CorrectAnswerKey>A</CorrectAnswerKey>
+  </TriviaQuestion>
+  <TriviaQuestion>
+    <QuestionText>From which movie came the line, 'THE POWER OF CHRIST COMPELS YOU!'</QuestionText>
+    <AnswerTextA>A) Dracula</AnswerTextA>
+    <AnswerTextB>B) The Omen</AnswerTextB>
+    <AnswerTextC>C) The Excorcist</AnswerTextC>
+    <AnswerTextD>D) The Unearthly</AnswerTextD>
+    <CorrectAnswerKey>C</CorrectAnswerKey>
+  </TriviaQuestion>
+  <TriviaQuestion>
+    <QuestionText>From which movie came the line, 'They mostly come out at night, mostly...'?</QuestionText>
+    <AnswerTextA>A) The Werewolf</AnswerTextA>
+    <AnswerTextB>B) Tarantula</AnswerTextB>
+    <AnswerTextC>C) Evil Dead</AnswerTextC>
+    <AnswerTextD>D) Aliens</AnswerTextD>
+    <CorrectAnswerKey>D</CorrectAnswerKey>
+  </TriviaQuestion>
+  <TriviaQuestion>
+    <QuestionText>Which movie is accredited with being the first horror film in the world?</QuestionText>
+    <AnswerTextA>A) The Devil's Castle</AnswerTextA>
+    <AnswerTextB>B) Night of the Living Dead</AnswerTextB>
+    <AnswerTextC>C) The Monster</AnswerTextC>
+    <AnswerTextD>D) Silent Night, Deadly Night</AnswerTextD>
+    <CorrectAnswerKey>A</CorrectAnswerKey>
+  </TriviaQuestion>
+  <TriviaQuestion>
+    <QuestionText>Which was the first monster to appear in a full length horror film?</QuestionText>
+    <AnswerTextA>A) Dracula</AnswerTextA>
+    <AnswerTextB>B) Quasimodo</AnswerTextB>
+    <AnswerTextC>C) Nosferatu</AnswerTextC>
+    <AnswerTextD>D) Frankenstein</AnswerTextD>
+    <CorrectAnswerKey>B</CorrectAnswerKey>
+  </TriviaQuestion>
+  <TriviaQuestion>
+    <QuestionText>In which of the following movies does a child get possessed by the Devil?</QuestionText>
+    <AnswerTextA>A) Psycho</AnswerTextA>
+    <AnswerTextB>B) Rosemary's Baby</AnswerTextB>
+    <AnswerTextC>C) The Last House on the Left</AnswerTextC>
+    <AnswerTextD>D) Audrey Rose</AnswerTextD>
+    <CorrectAnswerKey>D</CorrectAnswerKey>
+  </TriviaQuestion>
+  <TriviaQuestion>
+    <QuestionText>Which of the following is not a Rob Zombie directed horror movie?</QuestionText>
+    <AnswerTextA>A) House of 1000 Corpses</AnswerTextA>
+    <AnswerTextB>B) The Devil's Rejects</AnswerTextB>
+    <AnswerTextC>C) 10,000 Monkeys</AnswerTextC>
+    <AnswerTextD>D) The House of El Superbeasto</AnswerTextD>
+    <CorrectAnswerKey>C</CorrectAnswerKey>
+  </TriviaQuestion>
+  <TriviaQuestion>
+    <QuestionText>Which horror movie, shot only within 8 days, became one of the highest horror movie grossers of all times?</QuestionText>
+    <AnswerTextA>A) The Sixth Sense</AnswerTextA>
+    <AnswerTextB>B) The Blair Witch Project</AnswerTextB>
+    <AnswerTextC>C) The Ring</AnswerTextC>
+    <AnswerTextD>D) The Shining</AnswerTextD>
+    <CorrectAnswerKey>B</CorrectAnswerKey>
+  </TriviaQuestion>
+  <TriviaQuestion>
+    <QuestionText>Which horror movie was banned in several places as it showed a killer Santa Claus?</QuestionText>
+    <AnswerTextA>A) Silent Night, Deadly Night</AnswerTextA>
+    <AnswerTextB>B) Child's Play</AnswerTextB>
+    <AnswerTextC>C) Candyman</AnswerTextC>
+    <AnswerTextD>D) Halloween</AnswerTextD>
+    <CorrectAnswerKey>A</CorrectAnswerKey>
+  </TriviaQuestion>
+  <TriviaQuestion>
+    <QuestionText>Which horror movie had the cult line, 'I'm having an old friend for dinner'?</QuestionText>
+    <AnswerTextA>A) The Haunting</AnswerTextA>
+    <AnswerTextB>B) Silence of the Lambs</AnswerTextB>
+    <AnswerTextC>C) Texas Chainsaw Massacre</AnswerTextC>
+    <AnswerTextD>D) The Omen</AnswerTextD>
+    <CorrectAnswerKey>B</CorrectAnswerKey>
+  </TriviaQuestion>
+</TriviaQuestionDataSet>

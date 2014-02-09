@@ -1,0 +1,82 @@
+<questionSet xmlns="http://tempuri.org/questionSet.xsd">
+<TriviaQuestion>
+<QuestionString>Philips and Sony allegedly agreed to a 74-minute compact disk standard to accomodate what audio track?</QuestionString>
+<AnswerA>Beethoven's 9th Symphony</AnswerA>
+<AnswerB>The Beatles' White Album</AnswerB>
+<AnswerC>Grateful Dead's Skull and Roses</AnswerC>
+<AnswerD>This Is Spinal Tap</AnswerD>
+<Correct>A</Correct>
+</TriviaQuestion>
+<TriviaQuestion>
+<QuestionString>The precursor to the laser is the _____, which used microwaves instead of visible frequencies of light.</QuestionString>
+<AnswerA>Laser++</AnswerA>
+<AnswerB>Infrared Beam</AnswerB>
+<AnswerC>Maser</AnswerC>
+<AnswerD>Vaser</AnswerD>
+<Correct>C</Correct>
+</TriviaQuestion>
+<TriviaQuestion>
+<QuestionString>The term "Exoplanet" refers to a planet that:</QuestionString>
+<AnswerA>Has an oxygen-based atmosphere</AnswerA>
+<AnswerB>Contains a solid outer crust</AnswerB>
+<AnswerC>Emits pulsars</AnswerC>
+<AnswerD>Orbits any star but our Sun</AnswerD>
+<Correct>D</Correct>
+</TriviaQuestion>
+<TriviaQuestion>
+<QuestionString>How many orbiters have humans intentionally crashed into the dark side of them moon?</QuestionString>
+<AnswerA>0</AnswerA>
+<AnswerB>1</AnswerB>
+<AnswerC>3</AnswerC>
+<AnswerD>7</AnswerD>
+<Correct>C</Correct>
+</TriviaQuestion>
+<TriviaQuestion>
+<QuestionString>Where is the largest impact crater in our Solar System?</QuestionString>
+<AnswerA>Manson, Iowa</AnswerA>
+<AnswerB>The Moon</AnswerB>
+<AnswerC>Jupiter</AnswerC>
+<AnswerD>Mexico</AnswerD>
+<Correct>B</Correct>
+</TriviaQuestion>
+<TriviaQuestion>
+<QuestionString>Colonel Joseph Kittinger is best known for what courageous scientific activity?</QuestionString>
+<AnswerA>Living among gorillas</AnswerA>
+<AnswerB>Leaping from high-altitude balloons</AnswerB>
+<AnswerC>Tasting poisonous chemicals</AnswerC>
+<AnswerD>Deep sea pressure testing</AnswerD>
+<Correct>B</Correct>
+</TriviaQuestion>
+<TriviaQuestion>
+<QuestionString>In Star Wars, Han Solo wins the Millenium Falcon from Lando Calrissian by playing what game?</QuestionString>
+<AnswerA>Sabacc</AnswerA>
+<AnswerB>Gnip-Gnop</AnswerB>
+<AnswerC>Fizzbin</AnswerC>
+<AnswerD>FizzBuzz</AnswerD>
+<Correct>A</Correct>
+</TriviaQuestion>
+<TriviaQuestion>
+<QuestionString>The world's first chess computer program was called:</QuestionString>
+<AnswerA>ENIGMA</AnswerA>
+<AnswerB>Turing's Toy</AnswerB>
+<AnswerC>MANIAC</AnswerC>
+<AnswerD>Deep Blue</AnswerD>
+<Correct>C</Correct>
+</TriviaQuestion>
+<TriviaQuestion>
+<QuestionString>What is the plural of iPod Nano?</QuestionString>
+<AnswerA>iPod Nano</AnswerA>
+<AnswerB>iPod Nanoes</AnswerB>
+<AnswerC>Flock of Nanos</AnswerC>
+<AnswerD>Apple will not specify</AnswerD>
+<Correct>D</Correct>
+</TriviaQuestion>
+<TriviaQuestion>
+<QuestionString>Ah, geeks of the world unite!  June 14 has been deemed International __________ Day.</QuestionString>
+<AnswerA>Hacker</AnswerA>
+<AnswerB>Weblogger</AnswerB>
+<AnswerC>Reformat your drive</AnswerC>
+<AnswerD>Mountain Dew</AnswerD>
+<Correct>B</Correct>
+</TriviaQuestion>
+</questionSet>

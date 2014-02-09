@@ -1,0 +1,82 @@
+<TriviaQuestionDataSet xmlns="http://tempuri.org/TriviaQuestionDataSet.xsd">
+  <TriviaQuestion>
+    <QuestionText>Which actor played Jason Voorhees in the first (and probably the best) of the seemingly endless movie series?</QuestionText>
+    <AnswerTextA>A) Marshall Harris</AnswerTextA>
+    <AnswerTextB>B) Kane Hodder</AnswerTextB>
+    <AnswerTextC>C) Nick Castle</AnswerTextC>
+    <AnswerTextD>D) Ari Lehman</AnswerTextD>
+    <CorrectAnswerKey>D</CorrectAnswerKey>
+  </TriviaQuestion>
+  <TriviaQuestion>
+    <QuestionText>What was the name of the summer camp where many young counselors were brutally massacred by an unknown assailant?</QuestionText>
+    <AnswerTextA>A) Camp Clear Creek</AnswerTextA>
+    <AnswerTextB>B) Camp Chickasaw Spring</AnswerTextB>
+    <AnswerTextC>C) Camp Crystal Lake</AnswerTextC>
+    <AnswerTextD>D) Camp Bear River</AnswerTextD>
+    <CorrectAnswerKey>C</CorrectAnswerKey>
+  </TriviaQuestion>
+  <TriviaQuestion>
+    <QuestionText>What nickname did the the local residents give to Camp Crystal Lake after the original 2 counselors were murdered in 1958?</QuestionText>
+    <AnswerTextA>A) Camp Carnage</AnswerTextA>
+    <AnswerTextB>B) Camp Blood</AnswerTextB>
+    <AnswerTextC>C) Slaughter Camp</AnswerTextC>
+    <AnswerTextD>D) Camp Horror</AnswerTextD>
+    <CorrectAnswerKey>B</CorrectAnswerKey>
+  </TriviaQuestion>
+  <TriviaQuestion>
+    <QuestionText>How old was Jason Voorhees when he was thought to have drowned in Camp Crystal Lake because of the irresponsible teenage camp counselors?</QuestionText>
+    <AnswerTextA>A) 5</AnswerTextA>
+    <AnswerTextB>B) 8</AnswerTextB>
+    <AnswerTextC>C) 11</AnswerTextC>
+    <AnswerTextD>D) 13</AnswerTextD>
+    <CorrectAnswerKey>C</CorrectAnswerKey>
+  </TriviaQuestion>
+  <TriviaQuestion>
+    <QuestionText>The character of Jason's mother was played by actress Betsy Palmer. What was Mrs. Voorhees' full name?</QuestionText>
+    <AnswerTextA>A) Mary Lou Voorhees</AnswerTextA>
+    <AnswerTextB>B) Dora Mae Voorhees</AnswerTextB>
+    <AnswerTextC>C) Lori Lynn Voorhees</AnswerTextC>
+    <AnswerTextD>D) Pamela Sue Voorhees</AnswerTextD>
+    <CorrectAnswerKey>D</CorrectAnswerKey>
+  </TriviaQuestion>
+  <TriviaQuestion>
+    <QuestionText>What was the name of the only surviving character of the Camp Crystal Lake massacre (played by Adrienne King)?</QuestionText>
+    <AnswerTextA>A) Alice</AnswerTextA>
+    <AnswerTextB>B) Marcie</AnswerTextB>
+    <AnswerTextC>C) Annie</AnswerTextC>
+    <AnswerTextD>D) Brenda</AnswerTextD>
+    <CorrectAnswerKey>A</CorrectAnswerKey>
+  </TriviaQuestion>
+  <TriviaQuestion>
+    <QuestionText>The character of Alice also appeared in the first movie series sequel (Friday The 13th part 2). By what method did Alice meet her maker?</QuestionText>
+    <AnswerTextA>A) Machete</AnswerTextA>
+    <AnswerTextB>B) Ice pick</AnswerTextB>
+    <AnswerTextC>C) Axe</AnswerTextC>
+    <AnswerTextD>D) Liver and Onions</AnswerTextD>
+    <CorrectAnswerKey>B</CorrectAnswerKey>
+  </TriviaQuestion>
+  <TriviaQuestion>
+    <QuestionText>In the original Friday movie, the character of Jack was played by which soon-to-be-famous actor?</QuestionText>
+    <AnswerTextA>A) Tom Cruise</AnswerTextA>
+    <AnswerTextB>B) Sean Penn</AnswerTextB>
+    <AnswerTextC>C) Eric Stoltz</AnswerTextC>
+    <AnswerTextD>D) Kevin Bacon</AnswerTextD>
+    <CorrectAnswerKey>D</CorrectAnswerKey>
+  </TriviaQuestion>
+  <TriviaQuestion>
+    <QuestionText>In what year was Jason Voorhees born?</QuestionText>
+    <AnswerTextA>A) 1940</AnswerTextA>
+    <AnswerTextB>B) 1946</AnswerTextB>
+    <AnswerTextC>C) 1952</AnswerTextC>
+    <AnswerTextD>D) 1958</AnswerTextD>
+    <CorrectAnswerKey>B</CorrectAnswerKey>
+  </TriviaQuestion>
+  <TriviaQuestion>
+    <QuestionText>Here's a tough one.... What was the name of Jason's father?</QuestionText>
+    <AnswerTextA>A) Billy Bob</AnswerTextA>
+    <AnswerTextB>B) Elias</AnswerTextB>
+    <AnswerTextC>C) Hortence</AnswerTextC>
+    <AnswerTextD>D) Marshall</AnswerTextD>
+    <CorrectAnswerKey>B</CorrectAnswerKey>
+  </TriviaQuestion>
+</TriviaQuestionDataSet>
